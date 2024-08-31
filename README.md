@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Doaner54
 - 👀 I’m interested in ...homebrewing wii/wiiu/rgh3 xbox 360/kodi
 
-📫 How to reach me...here/gbatemp/discord
+-📫 How to reach me...here/gbatemp/discord
 
- 🛑 Take a look at my wiiflow
+-🛑 Take a look at my wiiflow
     
 ![1000006646](https://![1000006649](https://github.com/user-attachments/assets/06b629c1-4146-413b-b7c6-c064c3c45850).com/user-attachments/assets/5d9a46ec-8e58-4933-bee3-126825120bf4)
 ![1000006645](https://github.com/user-attachments/assets/ff94007f-f970-45a2-85a0-b2b75e349807)
@@ -46,6 +46,7 @@
 ![1000006709](https://github.com/user-attachments/assets/a64dadb6-6718-4a1a-8c60-fa03c6cce64e)
 ![1000006708](https://github.com/user-attachments/assets/059bc384-b190-4dd6-94e9-073bc72f8f93)
 ![1000006707](https://github.com/user-attachments/assets/dad16247-774b-4ec5-a4d4-7c4fa300d1d5)
+![1000006646](https://github.com/user-attachments/assets/55175ac8-9a2b-4608-b15a-ed379a0da6d8)
 
 Doaner54/Doaner54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
