@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Doaner54
 - 👀 I’m interested in ...homebrewing wii/wiiu/rgh3 xbox 360/kodi
-📫 How to reach me ...here/gbatemp/discord
+
+📫 How to reach me...here/gbatemp/discord
 
  🛑 Take a look at my wiiflow
     
