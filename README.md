@@ -3,7 +3,7 @@
 
 -📫 How to reach me...here/gbatemp/discord
 
--🛑 Take a look at my wiiflow!
+-🛑 Take a look at my wiiflow! (and some other added hacks/mods)
 
 ![1000006649](https://github.com/user-attachments/assets/557031be-6f8a-4e8f-8202-b05e24574bf8)
 ![1000006645](https://github.com/user-attachments/assets/ff94007f-f970-45a2-85a0-b2b75e349807)
