@@ -70,6 +70,11 @@
 ![1000006919](https://github.com/user-attachments/assets/989e85c6-4236-4945-af36-a22c6624d37e)
 ![1000006918](https://github.com/user-attachments/assets/c84c8a02-2cb9-4a38-a0b3-5e171b438357)
 ![1000006942](https://github.com/user-attachments/assets/0c5c9990-c977-45b3-9e68-15290a556a08)
+![1000007362](https://github.com/user-attachments/assets/ce72af00-9588-4144-8e37-77debec78ef9)
+![1000007351](https://github.com/user-attachments/assets/c44a535c-d650-4b52-ba00-1a34b955d3e6)
+![1000007153](https://github.com/user-attachments/assets/fd6a0fe1-07c8-4ec2-b63e-2b74d7d10342)
+![1000006934](https://github.com/user-attachments/assets/669d8b50-dacb-46b7-82d2-55de78284e96)
+![1000007189](https://github.com/user-attachments/assets/ef284fad-79a5-414b-857d-af8572f71561)
 
 
 Doaner54/Doaner54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
