@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Doaner54
-- 👀 I’m interested in ...homebrewing wii/wiiu/rgh3 xbox 360/kodi/cydia
+- 👀 I’m interested in ...homebrew wii/wiiu/rgh3 xbox 360/kodi/cydia/n64 ED64 Plus/ModBros/Raspberry Pi/Evulnat PS3/CFW Psvita
 
 -📫 How to reach me...here/gbatemp/discord
 
